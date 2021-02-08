@@ -78,7 +78,7 @@
                                     <element>CLASS</element>
                                     <excludes>
                                         <exclude>*Test</exclude>
-<!--                                        <exclude>MovieItem</exclude>-->
+                                        <exclude>ProductManager</exclude>
                                     </excludes>
                                     <limits>
                                         <limit>
