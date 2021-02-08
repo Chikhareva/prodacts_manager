@@ -17,6 +17,7 @@ public class ProductRepository {
     public  Product[] findAll() {
         return items;
     }
+    
 
     public Product findById(int id) {
         for (Product item : items) {
